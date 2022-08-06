@@ -30,8 +30,20 @@ body{
 .project:hover{
     background-color: #64ffdb17;
 }
-.hero{
-    
-    margin-top: 90px;
-    padding: 12px;
+i{
+    color: #64ffda;
+    font-size: 40px;
+}
+.ico i{
+    margin-left: 13px;
+    font-size: 18px;
+}
+li{
+    list-style: none;
+}
+.card{
+    background-color: #182943;
+}
+nav{
+    background-color: #182943;   
 }
