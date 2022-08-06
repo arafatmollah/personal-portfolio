@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri&display=swap');
+
+body{
+    font-family: 'Hind Siliguri', sans-serif;
+    margin: 0px;
+    padding: 0px;
+    background-color: #0A192F;
+}
+.hero p{
+    color: #64ffda;
+}
+.hero h1{
+    font-size: 60px;
+    font-weight: 600;
+    color: white;
+}
+.hero .desig{
+    color: #8892b0;
+}
+.hero .title{
+    max-width: 500px;
+}
+.project{
+    border-color: #64ffda;
+    border-radius: 8px;
+    color: azure;
+    background-color: #0A192F;
+    padding: 10px;
+}
+.project:hover{
+    background-color: #64ffdb17;
+}
+.hero{
+    
+    margin-top: 90px;
+    padding: 12px;
+}
